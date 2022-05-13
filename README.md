@@ -1,6 +1,8 @@
 # Concerns About Vaccines with Explanations and Summaries (CAVES)
 
 This repository contains the datasets, corresponding to the paper titled "CAVES: A Dataset to facilitate Explainable Classification and Summarization of Concerns towards COVID Vaccines", which is accepted to appear at [ACM SIGIR 2022 (Resource Track)](https://sigir.org/sigir2022/program/accepted/ "SIGIR2022"). 
+A preprint version is available on: [arXiv](https://arxiv.org/abs/2204.13746 "arXiv").
+
 
 For access to the tweet texts and the explanations, you will be required to sign an NDA form.
 For queries please mail me at: [Email ID](mailto:sohampoddar@kgpian.iitkgp.ac.in) 
