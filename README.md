@@ -4,7 +4,12 @@ This repository contains the datasets, corresponding to the paper titled "CAVES:
 A preprint version is available on: [arXiv](https://arxiv.org/abs/2204.13746 "arXiv").
 
 
-For access to the tweet texts and the explanations, you will be required to sign an NDA form.
+The "gold_summaries" folder contains summaries of each of the classes by 3 different annotators.
+The "labelled_tweets" folder contains the labels and tweet IDs in standard CSV format, and the label-explanation tuples in standard JSON format. The "start" and "end" indices in the explanations represent the index of the corresponding tokens in the tweet text when split just by whitespaces.
+For example, for a start and end index of 2 and 5, the explanation for the tweet: *"They are making huge $$$ profits... won't take it!"* will be *"making huge $$$ profits..."*.
+
+
+For access to the tweet texts, you will be required to sign an NDA form.
 For queries please mail me at: [Email ID](mailto:sohampoddar@kgpian.iitkgp.ac.in) 
 
 
@@ -17,3 +22,6 @@ If you use our data, please cite the following paper:
   year={2022}
 }
 ```
+
+
+*The dataset was updated since the publication of the paper, whose details will be updated in the preprint version shortly*
