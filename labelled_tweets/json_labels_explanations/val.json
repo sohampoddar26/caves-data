@@ -16022,6 +16022,14 @@
                                         "end": 26,
                                         "terms": ""
                                 }
+                        ],
+                        "ingredients": [
+                                {
+                                        "index": 0,
+                                        "start": 16,
+                                        "end": 20,
+                                        "terms": ""
+                                }
                         ]
                 }
         },
