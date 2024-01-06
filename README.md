@@ -26,5 +26,6 @@ If you use our data, please cite the following paper:
 ```
 
 ## Classification Models on the Dataset
-We have put forward MuLX-QA, a method that identifies multiple label-explanation tuples from social media posts. The details of the method are available at [Link to paper (Comming soon)]() [Link to Github](https://github.com/sohampoddar26/MuLX-QA)
+We have put forward MuLX-QA, a method that identifies multiple label-explanation tuples from social media posts. The details of the method are available at [Link to paper (Comming soon)](). 
+[Link to Github](https://github.com/sohampoddar26/MuLX-QA)
 
