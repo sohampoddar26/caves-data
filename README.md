@@ -28,4 +28,6 @@ If you use our data, please cite the following paper:
 ## Classification Models on the Dataset
 - **MuLX-QA** is method that identifies multiple label-explanation tuples from social media posts. This method was accepted for the ACM Transactions on the Web (TWEB) Journal in 2024. 
 [Link to paper](https://dl.acm.org/doi/10.1145/3653303) [Link to Github](https://github.com/sohampoddar26/MuLX-QA)
+- **Cov-Gen** is a method that uses a flan-T5 model to accurately classify the vaccine concerns (multi-labels). This method is part of the paper *"How COVID-19 has Impacted the Anti-Vaccine Discourse: A Large-Scale Twitter Study Spanning Pre-COVID and Post-COVID Era"* accepted at 18th International AAAI Conference on Web and Social Media (ICWSM).
+[Link to paper](https://ojs.aaai.org/index.php/ICWSM/article/view/31388) [Link to Github](https://github.com/sohampoddar26/covid-impact-antivax)
 
